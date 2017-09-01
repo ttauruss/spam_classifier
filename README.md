@@ -1,2 +1,2 @@
-# spam_classifier
-spam classifier from machine learning nanodegree
+# Spam classifier
+The data is taken from [UCI datasets](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)  
